@@ -31,6 +31,12 @@ Build/
 *.VC.db
 *.VC.VC.opendb
 
+# Visual Studio temporary files
+.vs/
+*.VC.db*
+*.db-wal
+*.db-shm
+
 # Asset files (можно добавить, если не хотите их в репозитории)
 #*.uasset
 #*.umap
